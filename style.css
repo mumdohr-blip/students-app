@@ -1,5 +1,5 @@
-@font-face{font-family:Alexandria;font-weight:100 900;font-display:swap;src:url(fonts/ar.woff2) format('woff2');unicode-range:U+0600-06FF,U+0750-077F,U+0870-08FF,U+200C-200E,U+FB50-FDFF,U+FE70-FEFC}
-@font-face{font-family:Alexandria;font-weight:100 900;font-display:swap;src:url(fonts/lat.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2212}
+@font-face{font-family:Alexandria;font-weight:100 900;font-display:swap;src:url(ar.woff2) format('woff2');unicode-range:U+0600-06FF,U+0750-077F,U+0870-08FF,U+200C-200E,U+FB50-FDFF,U+FE70-FEFC}
+@font-face{font-family:Alexandria;font-weight:100 900;font-display:swap;src:url(lat.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2212}
 :root{--pri:#2B7A93;--bg:#F3F8FA;--card:#fff;--txt:#17323b;--mut:#6b8791;--cor:#F2907A;--line:#dbe7ec;--ok:#2e9b62;--okb:#e2f4ea;--wr:#b8860b;--wrb:#fbf1d3;--er:#c0504a;--erb:#f9e2e0;--sh:0 2px 10px rgba(30,70,90,.09);--inp:#f3f8fa}
 html[data-theme=dark]{--bg:#0f1b20;--card:#182830;--txt:#e6f1f4;--mut:#8fa9b3;--line:#2a404a;--okb:#16372a;--wrb:#3b3216;--erb:#40201e;--sh:0 2px 10px rgba(0,0,0,.4);--inp:#102026;--pri:#3a94b0}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
